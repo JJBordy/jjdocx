@@ -1,16 +1,17 @@
 # jjdocx
-Library to create .doc/.docx documents based on your templates and data.
-The goal is to have an open source, free solution to alter the damn docx/doc documents.
+User friendly library to create doc/docx documents based on user's templates & data.
 
-Will be in Java 8 (since it is still widely used), aims to not use any other dependencies, hopes to become a Maven repository.
-Once it will be close to version 1, will look for contributors to make a proper stable version 1.
+*The goal is to have an open source, free solution to alter the damn docx/doc documents.*  
 
-Currently is in conceiving phase, nothing to use, nothing to see...
+- *Java version: 1.8*
+- *Status: stub*
+- *Dependencies: only for testing*
 
-In version 1, for doc/docx, will be able to:
-* replace keywords
-* replace/create paragraphs
-* add table rows
-* generate a simple html page with all the template tags for those who will create the templates
+**Roadmap for version 1:**  
+- [ ] replace keywords
+- [ ] replace/create paragraphs
+- [ ] add table rows
+- [ ] generate a simple html page with all the template tags for those who will create the templates
+- [ ] publish as public Maven repository
 
-In version 2 it will be able to create complex tables, and combine templates in templates.
+In version 2 it will be able to create complex tables and create templates within templates.
