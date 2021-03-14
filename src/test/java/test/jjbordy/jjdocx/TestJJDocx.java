@@ -10,6 +10,6 @@ public class TestJJDocx {
 
 	@Test
 	public void hello() {
-		assertEquals(new JJDocx().hello(), "hello");
+		assertEquals(new JJDocx().hello(), "test");
 	}
 }
