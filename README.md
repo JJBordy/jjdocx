@@ -8,10 +8,11 @@ User friendly library to create doc/docx documents based on user's templates & d
 - *Dependencies: only for testing*
 
 **Roadmap for version 1:**  
-- [ ] replace keywords
-- [ ] replace/create paragraphs
-- [ ] add table rows
-- [ ] generate a simple html page with all the template tags for those who will create the templates
+- [ ] insert inline words/sentences
+- [ ] insert lists
+- [ ] insert paragraphs
+- [ ] insert table rows
+- [ ] generate cli output with all user's tags and their meaning
 - [ ] publish as public Maven repository
 
 In version 2 it will be able to create complex tables and create templates within templates.
