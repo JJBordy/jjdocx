@@ -1,4 +1,4 @@
-package test.jjbordy.jjdocx;
+package jjbordy.jjdocx;
 
 import static org.junit.Assert.assertEquals;
 
